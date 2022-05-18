@@ -10,3 +10,10 @@ Unpacking objects: 100% (5/5), done.
 $ git config --local rogeratletakarate@gmail.com EMAIL
 
 $ git config --local rogeratletdev USUARIO
+# dir
+$ python -m venv .venv
+
+source .venv\Scripts\activate.bat
+
+
+
